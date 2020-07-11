@@ -5,4 +5,4 @@ Each set contain two files (.docs/.pdf), questionare file and solution file in w
 
 All the projects are tested to run on Windows 10 and Ubuntu 16.04.
 
-Requirements include python and Matlab/Octave. 
+Requirements include Python,Shell and Matlab/Octave. 
